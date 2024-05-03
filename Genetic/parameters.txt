@@ -1,0 +1,16 @@
+Number of bits per coordinate:
+4
+Population size:
+20
+Number of generations:
+1
+Number of parents:
+10
+Canvas width:
+290
+Canvas height:
+290
+Probability of mutation (low/average/high):
+low
+Name and number of copies for each image:
+02.png 8
